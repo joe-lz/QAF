@@ -18,9 +18,9 @@ Or App Store search 「同志亦凡人」.
 QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos about LGBT.
 # Screenshots
 <p align='center'>
-<img width="300px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fp1tkubv2kj30rc1bs1kx.jpg">
-<img width="300px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1tlbtfpjj30rc1bsh9h.jpg">
-<img width="300px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fp1tnbmqydj30rc1bstfh.jpg">
-<img width="300px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1tnn0p9vj30rc1bsjxj.jpg">
+<img width="400px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fp1tkubv2kj30rc1bs1kx.jpg">
+<img width="400px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1tlbtfpjj30rc1bsh9h.jpg">
+<img width="400px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fp1tnbmqydj30rc1bstfh.jpg">
+<img width="400px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1tnn0p9vj30rc1bsjxj.jpg">
 </p>
 
