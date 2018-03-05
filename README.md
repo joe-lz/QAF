@@ -1,2 +1,1 @@
-# QAF
-QAF is a LGBT app. Offers news, articles and videos about LGBT.同志亦凡人
+<h2 align="center">Supporting QAF/同志亦凡人</h2>
