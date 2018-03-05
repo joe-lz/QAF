@@ -11,6 +11,7 @@ If you like this app please consider:
 <a href="https://www.paypal.me/biangbiang" target="_blank">
 <img width="80px" src="https://vuejs.org/images/paypal.png">
 </a>
+
 - 微信赞赏
 <img width="200px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1xcq2e7lj30w00w0die.jpg">
 # Install
