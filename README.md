@@ -1,5 +1,5 @@
 <p align='center'>
-<img width="250px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fp1vt78htgj30ds0dst9f.jpg">
+<img width="150px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fp1vt78htgj30ds0dst9f.jpg">
 </p>
 <h2 align="center">Supporting QAF/同志亦凡人</h2>
 QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos about LGBT.It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome backers.
@@ -28,5 +28,5 @@ QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos 
 
 # Join me
 如果你也想一起参与其中，可以通过以下两种方式联系我
-<a href="mailto:2jeodiong@gmail.com">2jeodiong@gmail.com</a>
-<a href="https://t.me/joinchat/G8endA8KdciGoi6q7QZEiw">Telegram群组</a> 
+- <a href="mailto:2jeodiong@gmail.com">2jeodiong@gmail.com</a>
+- <a href="https://t.me/joinchat/G8endA8KdciGoi6q7QZEiw">Telegram群组</a> 
