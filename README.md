@@ -13,6 +13,7 @@ If you like this app please consider:
 # Install
 <a href="https://itunes.apple.com/cn/app/%E5%90%8C%E5%BF%97%E4%BA%A6%E5%87%A1%E4%BA%BA/id1245156371?mt=8" target="_blank"><img width="150px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fp1twubcxvj30as03mdfz.jpg">
 </a>
+
 Or App Store search 「同志亦凡人」.
 # Introduction
 QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos about LGBT.
@@ -25,3 +26,7 @@ QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos 
 <img width="300px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1tnn0p9vj30rc1bsjxj.jpg">
 </p>
 
+# Join me
+如果你也想一起参与其中，可以通过以下两种方式联系我
+<a href="mailto:2jeodiong@gmail.com">2jeodiong@gmail.com</a>
+<a href="https://t.me/joinchat/G8endA8KdciGoi6q7QZEiw">Telegram群组</a> 
