@@ -25,14 +25,14 @@ QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos 
 
 # Screenshots
 <p align='center'>
-<img width="350px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbw2v9s6j30nm14e143.jpg">
-<img width="350px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbw93t3wj30nm14etmz.jpg">
-<img width="350px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwdsyp3j30nm14e4jl.jpg">
-<img width="350px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbvzogttj30nm14etv3.jpg">
-<img width="350px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwkan1rj30nm14etf0.jpg">
-<img width="350px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwj3q0gj30nm14ewjz.jpg">
-<img width="350px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwhdg43j30nm14enlp.jpg">
-<img width="350px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fpdbw5q76ej30nm14ewjy.jpg">
+<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbw2v9s6j30nm14e143.jpg">
+<img width="400px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbw93t3wj30nm14etmz.jpg">
+<img width="400px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwdsyp3j30nm14e4jl.jpg">
+<img width="400px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbvzogttj30nm14etv3.jpg">
+<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwkan1rj30nm14etf0.jpg">
+<img width="400px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwj3q0gj30nm14ewjz.jpg">
+<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwhdg43j30nm14enlp.jpg">
+<img width="400px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fpdbw5q76ej30nm14ewjy.jpg">
 </p>
 
 # Join me
