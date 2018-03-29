@@ -17,8 +17,17 @@
 [野狗](https://www.wilddog.com)、
 [七牛云](https://www.qiniu.com/)、
 
-# 关于开源
-因为里面使用了很多第三方服务且产品正在运行中，暂时不开源，不过任何人都可以免费试用本产品。
+# 功能列表
+1. 多语言支持
+2. 注册/登录（阿里云短信）
+3. 个人资料设置
+4. 添加/查看评论
+5. 添加/查看收藏
+6. webview页面（文章详情及操作）
+7. 上传图片/拍照（七牛云存储）
+8. 代码热更新/codepush（Microsoft AppCenter）
+9. 谷歌admob/analytics
+10. 发布/查看动态
 
 # Introduction
 QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos about LGBT.
@@ -54,5 +63,6 @@ If you like this app please consider:
 
 - 微信赞赏
 <img width="200px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fp1xcq2e7lj30w00w0die.jpg">
+
 
 
