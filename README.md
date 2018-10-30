@@ -1,15 +1,6 @@
 <p align='center'>
 <img width="150px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fp1vt78htgj30ds0dst9f.jpg">
 </p>
-<!--<h2 align="center">同志亦凡人</h2>-->
-
-# Install
-<a href="https://itunes.apple.com/cn/app/%E5%90%8C%E5%BF%97%E4%BA%A6%E5%87%A1%E4%BA%BA/id1245156371?mt=8" target="_blank"><img width="150px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fp1twubcxvj30as03mdfz.jpg">
-</a>
-<a href="http://oeu9bzhq1.bkt.clouddn.com/qaf/app-release.apk" target="_blank"><img width="150px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fsbuhw1s6nj30b203idg0.jpg">
-</a>
-
-或者 App Store 搜索 「同志亦凡人」.
 
 # Build with
 [React Native](https://github.com/facebook/react-native)、
@@ -36,22 +27,7 @@ QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos 
 
 # Screenshots
 <p align='center'>
-<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fpdckwkw1pj31j60w4qox.jpg">
-<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbw2v9s6j30nm14e143.jpg">
-<img width="400px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbw93t3wj30nm14etmz.jpg">
-<img width="400px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwdsyp3j30nm14e4jl.jpg">
-<img width="400px" src="https://ws4.sinaimg.cn/large/006tKfTcgy1fpdbvzogttj30nm14etv3.jpg">
-<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwkan1rj30nm14etf0.jpg">
-<img width="400px" src="https://ws2.sinaimg.cn/large/006tKfTcgy1fpdbwj3q0gj30nm14ewjz.jpg">
-<img width="400px" src="https://ws1.sinaimg.cn/large/006tKfTcgy1fpdbwhdg43j30nm14enlp.jpg">
-<img width="400px" src="https://ws3.sinaimg.cn/large/006tKfTcgy1fpdbw5q76ej30nm14ewjy.jpg">
+<img src="https://ws2.sinaimg.cn/large/006tNbRwgy1fwq6fz0zb0j31j20yie4x.jpg">
 </p>
 
-# Join me
-如果你也想一起参与其中，可以通过以下两种方式联系我
-- <a href="mailto:2jeodiong@gmail.com">2jeodiong@gmail.com</a>
-- <a href="https://t.me/joinchat/G8endA8KdciGoi6q7QZEiw">Telegram群组</a> 
-
-# 合作者
-- [zhangyu911013](https://github.com/zhangyu911013) 安卓版本开发
 
