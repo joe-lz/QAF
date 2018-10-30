@@ -27,7 +27,7 @@ QAF is a free ios app for LGBT. Offers latest news, articles, novels and videos 
 
 # Screenshots
 <p align='center'>
-<img src="https://ws2.sinaimg.cn/large/006tNbRwgy1fwq6fz0zb0j31j20yie4x.jpg">
+<img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fwq6gzjm1kj31jw0v2kge.jpg">
 </p>
 
 
